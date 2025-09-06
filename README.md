@@ -1,93 +1,76 @@
-# Cube Game
+🧊 Cube Game
+Welcome to the Cube Game, a thrilling and interactive puzzle adventure built entirely with JavaScript. This game will challenge your spatial awareness and problem-solving skills as you guide a cube through a series of dynamic levels.
 
-Welcome to the Cube Game! This is an exciting and interactive game where players manipulate a cube to achieve specific goals. The game challenges your spatial awareness and problem-solving skills.
+🕹️ Gameplay
+In the Cube Game, each level presents a new and unique challenge. Your main goal is to navigate the cube to the end point, but to get there, you'll need to solve puzzles, activate switches, and avoid clever traps. The game tests your ability to think creatively and adapt to ever-changing environments.
 
-## Table of Contents
+🎯 Objectives
+Navigate the cube to the end point of each level.
 
-- [Introduction](#introduction)
-- [Gameplay](#gameplay)
-- [Installation](#installation)
-- [Controls](#controls)
-- [Features](#features)
-- [Contributing](#contributing)
+Solve puzzles to unlock new areas.
 
-## Introduction
+Avoid obstacles and traps that stand in your way.
 
-Cube Game is a puzzle game where you control a cube to navigate through various levels filled with obstacles and challenges. The objective is to reach the end of each level by solving puzzles, avoiding traps, and using the cube's unique abilities.
+Collect items to gain points or unlock special abilities.
 
-## Gameplay
+🚀 Get Started
+Follow these steps to get the game up and running on your local machine:
 
-In Cube Game, each level presents a different challenge. You must rotate, move, and manipulate the cube to find your way to the goal. Some levels require you to activate switches, avoid traps, and solve puzzles to progress.
+Clone the repository:
 
-### Objectives
+Bash
 
-- Navigate the cube to the end point of each level.
-- Solve puzzles to unlock new areas.
-- Avoid obstacles and traps.
-- Collect items to gain points or unlock abilities.
+git clone https://github.com/Krishnaaa10/cube-game.git
+Navigate to the project directory:
 
-## Installation
+Bash
 
-Follow these steps to install and run Cube Game on your local machine:
+cd cube-game
+Install dependencies:
 
-1. **Clone the repository:**
+Bash
 
-    ```sh
-    git clone https://github.com/cube-game/cube-game.git
-    ```
+npm install
+Start the game:
 
-2. **Navigate to the project directory:**
+Bash
 
-    ```sh
-    cd cube-game
-    ```
+npm start
+🎮 Controls
+Arrow Keys / WASD: Move the cube
 
-3. **Install dependencies:**
+Spacebar: Jump
 
-    ```sh
-    npm install
-    ```
+Mouse: Rotate the camera
 
-4. **Start the game:**
+R: Restart the current level
 
-    ```sh
-    npm start
-    ```
+Esc: Pause/Resume the game
 
-## Controls
+✨ Features
+Challenging Levels: A variety of levels with increasing difficulty to keep you engaged.
 
-- **Arrow Keys/WASD**: Move the cube
-- **Spacebar**: Jump
-- **Mouse**: Rotate the camera
-- **R**: Restart the level
-- **Esc**: Pause/Resume the game
+Clever Puzzles: Unique puzzles that demand creative thinking and problem-solving.
 
-## Features
+Dynamic Environment: Interactive worlds that change as you progress.
 
-- **Challenging Levels**: Various levels with increasing difficulty.
-- **Puzzle Solving**: Unique puzzles that require creative thinking.
-- **Collectibles**: Items to collect that unlock new abilities and provide bonuses.
-- **Dynamic Environment**: Interactive environments that change as you progress.
+Collectibles: Find items that provide bonuses and unlock new abilities.
 
-## Contributing
-
-We welcome contributions to make Cube Game even better! If you have any suggestions, bug reports, or want to add new features, feel free to create an issue or submit a pull request.
+🤝 Contributing
+We welcome contributions to make the Cube Game even better! If you have any suggestions, bug reports, or want to add new features, feel free to open an issue or submit a pull request.
 
 To contribute:
 
-1. **Fork the repository:**
+Fork the repository: Click the "Fork" button on the top right corner of the GitHub page.
 
-    Click the "Fork" button on the top right corner of this repository's GitHub page.
+Clone your forked repository:
 
-2. **Clone your forked repository:**
+Bash
 
-    ```sh
-    git clone https://github.com/cube-game/cube-game.git
-    ```
+git clone https://github.com/Krishnaaa10/cube-game.git
+Create a pull request: Go to the original repository on GitHub, and you should see an option to create a pull request from your new branch.
 
-3. **Create a pull request:**
+📞 Connect
+Shrikrishna Patel - krishnaspattel@gmail.com - https://www.linkedin.com/in/shrikrishnapatel10/
 
-    Go to the original repository on GitHub, and you should see an option to create a pull request from your new branch.
----
-
-Enjoy playing Cube Game! Have fun solving puzzles and navigating through challenging levels. If you encounter any issues or have any feedback, feel free to reach out.
+Project Link: https://github.com/Krishnaaa10/cube-game
